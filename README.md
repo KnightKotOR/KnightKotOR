@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on polishing my projects and training in python
-- 🌱 I’m currently learning Data Science (revising the basics)
-- 🤔 I’m looking for help with a job
-- 💬 Ask me about Saul Goodman
+- 🔭 I’m currently working on polishing my projects
+- 🌱 I’m currently diving deep into MLOps
 
 ### 🧰 Languages and Tools
 
