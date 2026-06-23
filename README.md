@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hello there 👋
 
-- 🔭 I’m currently working on polishing my projects
-- 🌱 I’m currently diving deep into MLOps
+I’m currently working on polishing my projects and diving deep into MLOps
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
