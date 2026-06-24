@@ -22,7 +22,7 @@ I’m currently working on polishing my projects and diving deep into MLOps
 
    * Implemented a multi-fidelity optimization system based on CatBoost + Optuna.
    * Reduced the number of search steps to find the optimum by 1.4–3x compared with classic Bayesian optimization.
-   * The repository is currently plrivate due to undergoing cosmetic refactoring.
+   * **The repository is currently plrivate due to undergoing cosmetic refactoring.**
 
 2. [Audio classification (group project, responsible for ML)](https://github.com/yrmint/ml-app-arch):
 
