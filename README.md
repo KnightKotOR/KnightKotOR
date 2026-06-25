@@ -20,7 +20,7 @@ I’m currently working on polishing my projects and diving deep into MLOps
 
 1. [Ultrasonic welding optimization (R&D thesis project for the "Polymer composite materials" lab)](https://github.com/KnightKotOR/UW_SM):
 
-   * Implemented a multi-fidelity optimization system based on CatBoost + Optuna
+   * Implemented a surrogate assisted bayesian optimization system based on CatBoost + Optuna
    * Reduced the number of search steps to find the optimum by **1.4–3x** compared with classic Bayesian optimization
    * **The repository is currently plrivate due to undergoing cosmetic refactoring**
 
