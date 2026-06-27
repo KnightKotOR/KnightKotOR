@@ -2,7 +2,7 @@
 
 I focus on the intersection of **applied ML** and **ML Engineering** — from experiments to deployment.
 
-Currently: polishing projects, diving deep into **MLOps**, and open to **Data Scientist / ML Engineer / ML Researcher** positions.
+Currently: polishing projects, diving deep into **MLOps**, and open to **Data Scientist / ML Engineer** positions.
 
 ### Languages and Tools
 
@@ -29,7 +29,7 @@ Currently: polishing projects, diving deep into **MLOps**, and open to **Data Sc
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](#)
 [![uv](https://img.shields.io/badge/uv-261230?logo=python&logoColor=white)](#)
 
-### 📂 My projects 📂:
+### 📂 [My projects](https://github.com/stars/KnightKotOR/lists/my-stack) 📂:
 
 1. [Ultrasonic welding optimization](https://github.com/KnightKotOR/UW_SM):
     > **R&D thesis project** for the "Polymer Composite Materials" lab, SPbPU  
