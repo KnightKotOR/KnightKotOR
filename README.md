@@ -31,7 +31,21 @@ Currently: polishing projects, diving deep into **MLOps**, and open to **Data Sc
 
 ### 📂 [My projects](https://github.com/stars/KnightKotOR/lists/my-stack) 📂:
 
-1. [Ultrasonic welding optimization](https://github.com/KnightKotOR/UW_SM):
+1. [Music Genre Classifier](https://github.com/yrmint/ml-app-arch):
+   > **Group project** — ML lead contributor
+
+   * Designed and trained a **2 MB CNN**, achieving **F1 macro = 0.82 without data leakage**; accuracy is comparable to a **380 MB fine-tuned transformers**
+   * Adapted the model for inference in a container using Docker and RabbitMQ (The container was configured by the other member)
+   * Team practices: **PR reviews**, **conventional commits**, **feature-branch flow**, **CI checks** on all merges
+
+2. [Support ticket prioritization](https://github.com/KnightKotOR/SupportTickets-Prioritization):
+   > **End-to-end ML project** — classification on imbalanced data with business constraints
+
+   * Built a priority classifier (Low / Medium / High) on a **50K synthetic dataset** with severe class imbalance
+   * **Eliminated critical errors**: zero cases of High→Low misclassification
+   * Used **TreeSHAP** to verify model relies on real business factors (downtime, affected users)
+  
+3. [Ultrasonic welding optimization](https://github.com/KnightKotOR/UW_SM):
     > **R&D thesis project** for the "Polymer Composite Materials" lab, SPbPU  
     > *Bachelor's thesis — defended with excellence 25 June 2025*
     > 🔒 *private — refactoring in progress* 🔒
@@ -43,20 +57,6 @@ Currently: polishing projects, diving deep into **MLOps**, and open to **Data Sc
      * CV configurations (4-,6-,8-fold and LOO)
      * ML models for a surrogate (CatBoost, XGBoost, RandomForest, MLP with Nadaraya-Watson kernel)
      * Optimization methods (CMA-ES, TPE, GP, QMC)
-
-2. [Music Genre Classifier](https://github.com/yrmint/ml-app-arch):
-   > **Group project** — ML lead contributor
-
-   * Designed and trained a **2 MB CNN**, achieving **F1 macro = 0.82 without data leakage**; accuracy is comparable to a **380 MB fine-tuned transformers**
-   * Adapted the model for inference in a container using Docker and RabbitMQ (The container was configured by the other member)
-   * Team practices: **PR reviews**, **conventional commits**, **feature-branch flow**, **CI checks** on all merges
-
-3. [Support ticket prioritization](https://github.com/KnightKotOR/SupportTickets-Prioritization):
-   > **End-to-end ML project** — classification on imbalanced data with business constraints
-
-   * Built a priority classifier (Low / Medium / High) on a **50K synthetic dataset** with severe class imbalance
-   * **Eliminated critical errors**: zero cases of High→Low misclassification
-   * Used **TreeSHAP** to verify model relies on real business factors (downtime, affected users)
 
 4. [Topological Data Analysis research](https://github.com/KnightKotOR/topology-mnist3d):
    > **Research group project**: assisted with TDA pipeline; responsible for the classifier
