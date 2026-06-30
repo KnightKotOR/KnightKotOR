@@ -39,7 +39,7 @@ Currently: polishing projects, diving deep into **MLOps**, and open to **Data Sc
    * Team practices: **PR reviews**, **conventional commits**, **feature-branch flow**, **CI checks** on all merges
 
 2. [Support ticket prioritization](https://github.com/KnightKotOR/SupportTickets-Prioritization):
-   > **End-to-end ML project** — classification on imbalanced data with business constraints
+   > **ML project** — classification on imbalanced data with business constraints
 
    * Built a priority classifier (Low / Medium / High) on a **50K synthetic dataset** with severe class imbalance
    * **Eliminated critical errors**: zero cases of High→Low misclassification
